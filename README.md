@@ -6,6 +6,6 @@
 Actualmente me encuentro realizando cursos y proyectos personales para expandir mis conocimientos y hablidades en el ámbito web y móvil.**
 
 #### 🔵 Portafolio personal
-🖥️  [josuet](https://josuet.netlify.app)
+🔗  [josuet](https://josuet.netlify.app)
 
 ![code](https://user-images.githubusercontent.com/84942510/183242280-6c19b94c-e9fc-4894-a5f2-ba632063cdcf.png)
