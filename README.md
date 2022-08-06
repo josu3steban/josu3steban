@@ -1,4 +1,3 @@
-## Hola👋
 
 ![h1Hola, soy josue tomaláh1](https://user-images.githubusercontent.com/84942510/183240486-e7ec5ee7-4a14-49b7-a017-c97f3edb5c44.png)
 ---
